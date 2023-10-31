@@ -1,0 +1,73 @@
+{
+  "free": [
+  {
+
+    "bg1": "[Free] **TOMORROW X TOGETHER** Wallpaper",
+    "bg2": "[Free] **BLACKPINK** Wallpaper",
+    "bg3": "[Free] **BINI** Wallpaper",
+    "bg4": "[Free] **NewJeans** Wallpaper",
+    "bg5": "[Free] **LE SSERAFIM** Wallpaper",
+    "bg6": "[Free] **BTS** Wallpaper",
+    "bg7": "[Free] **IVE** Wallpaper",
+    "bg8": "[Free] **(G)I-DLE** Wallpaper",
+    "bg9": "[Free] **ENHYPEN** Wallpaper",
+    "bg10": "[Free] **ITZY** Wallpaper",
+    "bg11": "[Free] **TWICE** Wallpaper",
+    "bg12": "[Free] **aespa** Wallpaper",
+    "bg13": "[Free] **Red Velvet** Wallpaper",
+    "bg14": "[Free] **NMIXX** Wallpaper",
+    "bg1_i": "https://ik.imagekit.io/ssks/resources/images/20231031/txt_f.png",
+    "bg2_i": "https://ik.imagekit.io/ssks/resources/images/20231031/blackpink_f.png",
+    "bg3_i": "https://ik.imagekit.io/ssks/resources/images/20231031/bini_f.png",
+    "bg4_i": "https://ik.imagekit.io/ssks/resources/images/20231031/newjeans_f.png",
+    "bg5_i": "https://ik.imagekit.io/ssks/resources/images/20231031/lesserafim_f.png",
+    "bg6_i": "https://ik.imagekit.io/ssks/resources/images/20231031/bts_f.png",
+    "bg7_i": "https://ik.imagekit.io/ssks/resources/images/20231031/ive_f.png",
+    "bg8_i": "https://ik.imagekit.io/ssks/resources/images/20231031/gidle_f.png",
+    "bg9_i": "https://ik.imagekit.io/ssks/resources/images/20231031/enhypen_f.png",
+    "bg10_i": "https://ik.imagekit.io/ssks/resources/images/20231031/itzy_f.png",
+    "bg11_i": "https://ik.imagekit.io/ssks/resources/images/20231031/twice_f.png",
+    "bg12_i": "https://ik.imagekit.io/ssks/resources/images/20231031/aespa_f.png",
+    "bg13_i": "https://ik.imagekit.io/ssks/resources/images/20231031/redvelvet_f.png",
+    "bg14_i": "https://ik.imagekit.io/ssks/resources/images/20231031/nmixx_f.png"
+    
+    
+      }
+  ],
+
+    "basic": [
+  {
+
+    "bg1": "[Basic] **TOMORROW X TOGETHER** Wallpaper",
+    "bg2": "[Basic] **BLACKPINK** Wallpaper",
+    "bg3": "[Basic] **BINI** Wallpaper",
+    "bg4": "[Basic] **NewJeans** Wallpaper",
+    "bg5": "[Basic] **LE SSERAFIM** Wallpaper",
+    "bg6": "[Basic] **BTS** Wallpaper",
+    "bg7": "[Basic] **IVE** Wallpaper",
+    "bg8": "[Basic] **(G)I-DLE** Wallpaper",
+    "bg9": "[Basic] **ENHYPEN** Wallpaper",
+    "bg10": "[Basic] **ITZY** Wallpaper",
+    "bg11": "[Basic] **TWICE** Wallpaper",
+    "bg12": "[Basic] **aespa** Wallpaper",
+    "bg13": "[Basic] **Red Velvet** Wallpaper",
+    "bg14": "[Basic] **NMIXX** Wallpaper",
+    "bg1_i": "https://ik.imagekit.io/ssks/resources/images/20231031/txt_b.png",
+    "bg2_i": "https://ik.imagekit.io/ssks/resources/images/20231031/blackpink_b.png",
+    "bg3_i": "https://ik.imagekit.io/ssks/resources/images/20231031/bini_b.png",
+    "bg4_i": "https://ik.imagekit.io/ssks/resources/images/20231031/newjeans_b.png",
+    "bg5_i": "https://ik.imagekit.io/ssks/resources/images/20231031/lesserafim_b.png",
+    "bg6_i": "https://ik.imagekit.io/ssks/resources/images/20231031/bts_b.png",
+    "bg7_i": "https://ik.imagekit.io/ssks/resources/images/20231031/ive_b.png",
+    "bg8_i": "https://ik.imagekit.io/ssks/resources/images/20231031/gidle_b.png",
+    "bg9_i": "https://ik.imagekit.io/ssks/resources/images/20231031/enhypen_b.png",
+    "bg10_i": "https://ik.imagekit.io/ssks/resources/images/20231031/itzy_b.png",
+    "bg11_i": "https://ik.imagekit.io/ssks/resources/images/20231031/twice_b.png",
+    "bg12_i": "https://ik.imagekit.io/ssks/resources/images/20231031/aespa_b.png",
+    "bg13_i": "https://ik.imagekit.io/ssks/resources/images/20231031/redvelvet_b.png",
+    "bg14_i": "https://ik.imagekit.io/ssks/resources/images/20231031/nmixx_b.png"
+    
+    
+      }
+  ]
+}
