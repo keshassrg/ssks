@@ -24,7 +24,12 @@
        "s_min": 70,
       "s_max": 90,
        "r_min": 100,
-      "r_max": 200
+      "r_max": 200,
+      "c_color": "FFFFFF",
+       "b_color": "ed2230",
+       "a_color": "cbb6ff",
+       "s_color": "fcc300",
+       "r_color": "ffbe54"
     }
   ],
 
